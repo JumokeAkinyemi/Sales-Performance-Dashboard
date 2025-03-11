@@ -64,10 +64,11 @@ From the dashboard, key insights include:
 - Preferred payment methods include cash, credit card, and e-wallets.
 - Gender-based sales show a near-equal split between male and female customers.
 - Branch comparison reveals performance differences across locations.
-## Recommendation
-- Enhance Product Strategy: Focus on high-performing product lines while improving weaker categories.
-- Optimize Payment Channels: Promote digital payments based on customer preferences.
-- Boost Branch Performance: Identify underperforming branches and implement targeted sales strategies.
-- Leverage Predictive Analytics: Use machine learning to forecast future sales trends.
-- Improve Customer Segmentation: Introduce loyalty programs for frequent buyers.
-## THANK YOU
+## Recommendations
+- Boost High-Performing Product Lines – Since Food & Beverages and Sports & Travel generate the most revenue, focus on expanding these categories with promotions, bundles, or new product variations while improving weaker categories.
+- Improve Payment Flexibility – Customers are using cash, credit cards, and e-wallets almost equally. Encouraging digital payments with cashback offers or discounts can enhance convenience and drive more transactions.
+- Enhance Underperforming Branches – If a branch is lagging in sales, analyze factors like location, customer preferences, or staff performance. Running localized promotions or adjusting inventory may help boost performance.
+- Leverage Customer Insights – With sales split nearly 50-50 between male and female customers, targeted marketing strategies (like gender-specific promotions or loyalty rewards) can further enhance engagement.
+- Use Predictive Analytics for Sales Forecasting – Implementing AI-driven insights to predict future sales trends can help in inventory planning and demand forecasting, reducing stockouts and excess inventory.
+By taking these actions, businesses can increase revenue, improve customer experience, and stay ahead of the competition! 
+# THANK YOU
